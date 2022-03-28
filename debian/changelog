@@ -1,3 +1,10 @@
+raspberrypi-firmware (1:1.20220328-1) bullseye; urgency=medium
+
+  * firmware as of 69277bc713133a54a1d20554d79544da1ae2b6ca
+  * Linux version 5.15.30
+
+ -- Serge Schneider <serge@raspberrypi.com>  Mon, 28 Mar 2022 16:48:15 +0100
+
 raspberrypi-firmware (1:1.20220308-2) bullseye; urgency=medium
 
   * Add libraspberrypi-dev to build dependencies
