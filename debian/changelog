@@ -1,3 +1,10 @@
+raspberrypi-firmware (1:1.20220331-1) bullseye; urgency=medium
+
+  * firmware as of 61966732d03de9b71baf561f920e018b54c241ac
+  * Linux version 5.15.32
+
+ -- Serge Schneider <serge@raspberrypi.com>  Fri, 01 Apr 2022 07:57:07 +0100
+
 raspberrypi-firmware (1:1.20220328-1) bullseye; urgency=medium
 
   * firmware as of 69277bc713133a54a1d20554d79544da1ae2b6ca
